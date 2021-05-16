@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "https://mahaveerpatil.github.io/csb-jktfj/static/js/main.e9aa682b.chunk.js",
+    "main.js.map": "https://mahaveerpatil.github.io/csb-jktfj/static/js/main.e9aa682b.chunk.js.map",
+    "runtime-main.js": "https://mahaveerpatil.github.io/csb-jktfj/static/js/runtime-main.12223e90.js",
+    "runtime-main.js.map": "https://mahaveerpatil.github.io/csb-jktfj/static/js/runtime-main.12223e90.js.map",
+    "index.html": "https://mahaveerpatil.github.io/csb-jktfj/index.html",
+    "precache-manifest.e5e5aeeabaec32d56c7c4c213c3cb4bb.js": "https://mahaveerpatil.github.io/csb-jktfj/precache-manifest.e5e5aeeabaec32d56c7c4c213c3cb4bb.js",
+    "service-worker.js": "https://mahaveerpatil.github.io/csb-jktfj/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12223e90.js",
+    "static/js/main.e9aa682b.chunk.js"
+  ]
+}
